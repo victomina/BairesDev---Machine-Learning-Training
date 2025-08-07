@@ -30,5 +30,6 @@
 
 Temos, alguns exemplos:
 
-![Redes Neurais Artificiais](imagens/redesneuraisartificiais) 
-![Pesos Sinapticos para um rede neural](imagens/)
+![Redes Neurais Artificiais](imagens/redesneuraisartificiais.png) 
+![Pesos Sinapticos para um rede neural](imagens/pesossinapticos.png)
+![Treinamento de uma rede neural](imagens/treinamentodeumarede.jpeg)
